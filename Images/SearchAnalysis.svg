@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 5372 2100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.901923,0,0,0.901923,54.3785,-1578.56)">
+        <g transform="matrix(1.09259,0,0,1.24914,-239.317,-3016.79)">
+            <text x="459.285px" y="4058.9px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(255,4,15);stroke:rgb(255,5,15);stroke-width:4.72px;">*</text>
+            <text x="602.234px" y="4058.9px" style="font-family:'Consolas-Bold', 'Consolas', monospace;font-weight:700;font-size:130px;fill:rgb(255,4,15);stroke:rgb(255,5,15);stroke-width:4.72px;">! SEARCH ALGORITHM ANALYSIS</text>
+            <text x="459.285px" y="4211.12px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="626.059px " y="4211.12px ">T</tspan>his <tspan x="1007.26px " y="4211.12px ">p</tspan>roject <tspan x="1602.88px " y="4211.12px ">e</tspan>ntailed <tspan x="2269.97px 2341.45px 2436.75px " y="4211.12px 4211.12px 4211.12px ">a d</tspan>etailed <tspan x="3103.85px " y="4211.12px ">e</tspan>xploration <tspan x="3985.37px " y="4211.12px ">o</tspan>f <tspan x="4223.61px " y="4211.12px ">s</tspan>earch <tspan x="4747.76px " y="4211.12px ">a</tspan>lgorithms</text>
+            <text x="459.285px" y="4363.34px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="683.92px " y="4363.34px ">b</tspan>y <tspan x="980.029px " y="4363.34px ">a</tspan>ddressing <tspan x="1847.93px " y="4363.34px ">t</tspan>wo <tspan x="2215.52px " y="4363.34px ">u</tspan>nique <tspan x="2797.53px " y="4363.34px ">c</tspan>hallenges: <tspan x="3736.91px " y="4363.34px ">n</tspan>avigating <tspan x="4604.81px " y="4363.34px ">e</tspan>nvironments</text>
+            <text x="459.285px" y="4515.55px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="646.906px " y="4515.55px ">o</tspan>bstructed <tspan x="1477.8px " y="4515.55px ">b</tspan>y <tspan x="1736.89px " y="4515.55px ">c</tspan>onvex <tspan x="2281.89px " y="4515.55px ">p</tspan>olygonal <tspan x="3041.3px " y="4515.55px ">o</tspan>bstacles <tspan x="3800.72px " y="4515.55px ">a</tspan>nd <tspan x="4131.29px " y="4515.55px ">d</tspan>eveloping <tspan x="4962.19px " y="4515.55px ">m</tspan>ethods</text>
+            <text x="459.285px" y="4667.77px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="618.118px " y="4667.77px ">f</tspan>or <tspan x="919.899px " y="4667.77px ">s</tspan>afely <tspan x="1436.11px " y="4667.77px ">t</tspan>ransporting <tspan x="2381.16px " y="4667.77px ">m</tspan>issionaries <tspan x="3326.21px " y="4667.77px ">a</tspan>nd <tspan x="3627.99px " y="4667.77px ">c</tspan>annibals <tspan x="4358.62px " y="4667.77px ">a</tspan>cross <tspan x="4874.83px 4946.3px 5033.66px " y="4667.77px 4667.77px 4667.77px ">a r</tspan>iver.</text>
+            <g transform="matrix(130,0,0,130,3618.46,4819.98)">
+            </g>
+            <g transform="matrix(130,0,0,130,3654.2,4819.98)">
+            </g>
+            <text x="459.285px" y="4819.98px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="630.824px " y="4819.98px ">T</tspan>he <tspan x="945.313px " y="4819.98px ">a</tspan>im <tspan x="1259.8px " y="4819.98px ">w</tspan>as <tspan x="1574.29px " y="4819.98px ">t</tspan>o <tspan x="1817.3px " y="4819.98px ">a</tspan>nalyze <tspan x="2417.69px " y="4819.98px ">a</tspan>nd <tspan x="2732.18px " y="4819.98px ">i</tspan>mplement <tspan x="3475.51px " y="4819.98px ">d</tspan>iﬀerent <tspan x="4147.38px " y="4819.98px ">s</tspan>earch <tspan x="4676.29px " y="4819.98px ">a</tspan>lgorithms,</text>
+            <g transform="matrix(130,0,0,130,1745.83,4972.2)">
+            </g>
+            <g transform="matrix(130,0,0,130,1781.57,4972.2)">
+            </g>
+            <g transform="matrix(130,0,0,130,4318.91,4972.2)">
+            </g>
+            <g transform="matrix(130,0,0,130,4342.74,4972.2)">
+            </g>
+            <g transform="matrix(130,0,0,130,4366.56,4972.2)">
+            </g>
+            <text x="459.285px" y="4972.2px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* evaluate their eﬀectiveness, and identify the most eﬃcient solutions</text>
+            <text x="459.285px" y="5124.42px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="637.972px " y="5124.42px ">t</tspan>hrough <tspan x="1245.51px " y="5124.42px ">c</tspan>omputational <tspan x="2281.89px " y="5124.42px ">p</tspan>roblem-solving <tspan x="3461.22px " y="5124.42px ">t</tspan>echniques. <tspan x="4354.65px " y="5124.42px ">T</tspan>he <tspan x="4676.29px " y="5124.42px ">c</tspan>omparative</text>
+            <text x="459.285px" y="5276.64px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* <tspan x="618.118px " y="5276.64px ">s</tspan>tudy <tspan x="1062.85px " y="5276.64px ">f</tspan>ocused <tspan x="1650.53px " y="5276.64px ">o</tspan>n <tspan x="1880.84px " y="5276.64px ">a</tspan>ssessing <tspan x="2611.47px " y="5276.64px ">t</tspan>he <tspan x="2913.25px " y="5276.64px ">a</tspan>lgorithms&apos; <tspan x="3786.83px " y="5276.64px ">p</tspan>erformance <tspan x="4660.4px " y="5276.64px ">m</tspan>etrics <tspan x="5248.08px " y="5276.64px ">a</tspan>nd</text>
+            <g transform="matrix(130,0,0,130,3675.64,5428.85)">
+            </g>
+            <g transform="matrix(130,0,0,130,3711.38,5428.85)">
+            </g>
+            <text x="459.285px" y="5428.85px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">* optimizing strategies to tackle these speciﬁc scenarios.</text>
+            <g transform="matrix(130,0,0,130,602.234,5581.07)">
+            </g>
+            <text x="459.285px" y="5581.07px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">*/</text>
+        </g>
+        <g transform="matrix(1.09259,0,0,1.24914,-395.307,-3207.89)">
+            <g transform="matrix(130,0,0,130,673.709,4058.9)">
+            </g>
+            <text x="459.285px" y="4058.9px" style="font-family:'Consolas', monospace;font-size:130px;fill:rgb(11,145,0);">/**</text>
+        </g>
+    </g>
+</svg>
