@@ -1,6 +1,7 @@
 ![Project Image](Images/StartCard.svg)
 ![Project Image](Images/CourseProjects.svg)
-[![Click to view!](Images/ClickToView.svg)](/Docs/AI_Agents.ipynb)
+[![Click to view!](Images/ClickToView.svg)](https://github.com/Alex-Demel/Portfolio/blob/main/Docs/AI_Agents.ipynb)
+
 
 ![Project Image](Images/ModelBased.svg)
 <p align="center"; padding-bottom: 20px;">
@@ -19,7 +20,7 @@
 </p>
 
 ![Project Image](Images/SearchAnalysis.svg)
-[![Click to view!](Images/ClickToView.svg)](/Docs/Search_Analysis.ipynb)
+[![Click to view!](Images/ClickToView.svg)](https://github.com/Alex-Demel/Portfolio/blob/main/Docs/Search_Analysis.ipynb)
 <p align="center"; padding-bottom: 20px;">
     <img src="Images/GreedyAstar.gif" alt="drawing" width="900"/>
 </p>
@@ -30,7 +31,7 @@
 </p>
 
 ![Project Image](Images/LocalSearch.svg)
-[![Click to view!](Images/ClickToView.svg)](/Docs/Local_Search_Analysis.ipynb)
+[![Click to view!](Images/ClickToView.svg)](https://github.com/Alex-Demel/Portfolio/blob/main/Docs/Local_Search_Analysis.ipynb)
 <p align="center"; padding-bottom: 20px;">
     <img src="Images/BothPuzzle.gif" alt="drawing"/>
 </p>
@@ -39,9 +40,9 @@
 
 
 ![Project Image](Images/Essays.svg)
-[![Click to view!](Images/ClickToView.svg)](/Docs/Reflection_on_AI_Progress.pdf)
+[![Click to view!](Images/ClickToView.svg)](https://github.com/Alex-Demel/Portfolio/blob/main/Docs/Reflection_on_AI_Progress.pdf)
 
 ![Project Image](Images/AIandNI.svg)
-[![Click to view!](Images/ClickToView.svg)](/Docs/Artificial_and_Natural_Intelligence.pdf)
+[![Click to view!](Images/ClickToView.svg)](https://github.com/Alex-Demel/Portfolio/blob/main/Docs/Artificial_and_Natural_Intelligence.pdf)
 
 ![Project Image](Images/FuturePlans.svg)
